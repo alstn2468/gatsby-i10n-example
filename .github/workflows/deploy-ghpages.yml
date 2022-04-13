@@ -27,6 +27,8 @@ jobs:
 
       - name: Build
         run: yarn build
+        env:
+          PUBLIC_URL: 'https://alstn2468.github.io/gatsby-l10n-example'
 
       - uses: peaceiris/actions-gh-pages@v2
         env:
