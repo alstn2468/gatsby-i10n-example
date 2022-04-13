@@ -26,7 +26,7 @@ jobs:
         run: yarn install --prod --pure-lockfile
 
       - name: Build
-        run: yarn build
+        run: yarn build --prefix-paths
         env:
           PUBLIC_URL: 'https://alstn2468.github.io/gatsby-l10n-example'
 

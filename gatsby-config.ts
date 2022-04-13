@@ -27,6 +27,8 @@ export const siteMetadata: GatsbyConfig['siteMetadata'] = {
   description: 'gatsby-l10n-example',
 };
 
+export const pathPrefix: GatsbyConfig['pathPrefix'] = '/gatsby-l10n-example';
+
 export const plugins: PluginConfig[] = [
   'gatsby-plugin-svgr',
   {
