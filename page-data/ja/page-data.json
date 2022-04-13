@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-index-tsx",
+    "path": "/ja/",
+    "result": {"data":{"translationData":{"language":"ja","title":"日本語","description":"ハロー・ワールド!"},"allTranslationData":{"nodes":[{"language":"ko"},{"language":"en"},{"language":"ja"}]}},"pageContext":{"language":"ja"}},
+    "staticQueryHashes": []}

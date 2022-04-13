@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-index-tsx",
+    "path": "/ko/",
+    "result": {"data":{"translationData":{"language":"ko","title":"한국어","description":"안녕 세상!"},"allTranslationData":{"nodes":[{"language":"ko"},{"language":"en"},{"language":"ja"}]}},"pageContext":{"language":"ko"}},
+    "staticQueryHashes": []}
