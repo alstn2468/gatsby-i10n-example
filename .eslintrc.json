@@ -1,0 +1,17 @@
+{
+  "parser": "@typescript-eslint/parser",
+  "extends": [
+    "plugin:@devsisters/web/frontend"
+  ],
+  "parserOptions": {
+    "project": ["tsconfig.json", "**/tsconfig.json"]
+  },
+  "settings": {
+    "import/resolver": {
+      "typescript": {},
+      "node": {
+        "paths": ["./"]
+      }
+    }
+  }
+}
